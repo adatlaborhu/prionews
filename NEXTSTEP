@@ -1,0 +1,15 @@
+
+DONE - 20131028 00:00
+1. szöveg kibányászása
+2. cím + leírás hozzáadása
+3. szavak megszámolása
+4. dátum + link + cím + header hozzáadása
+5. dátum szűrő a külön fájlokra
+
+0. actual file-okhoz a header hozzáadása (Dátum, link, stb.)
+1. szavak megszámolása
+2. dátumszűrő rátétele a külön fájlokra is
+
+0. ABC reader megírása ---- teszt http:__abcnews.go.com_Sports_wireStory_federer-face-del-potro-swiss-indoors-final-20692492.tsv
+1. REUTERS javítása
+2. REUTERS reader megírása

@@ -1,0 +1,15 @@
+CNN_link	FOX_link	NumMatching
+http:__edition.cnn.com_2014_01_23_showbiz_justin-bieber-arrest-duplicate-2_index.html.tsv	http:__www.foxnews.com_entertainment_2014_01_23_justin-bieber-reportedly-arrested-in-miami-beach_.tsv	9
+http:__edition.cnn.com_2014_01_23_showbiz_justin-bieber-arrest_index.html.tsv	http:__www.foxnews.com_entertainment_2014_01_23_justin-bieber-reportedly-arrested-in-miami-beach_.tsv	9
+http:__edition.cnn.com_2014_01_24_health_pregnant-brain-dead-woman-texas_index.html.tsv	http:__www.foxnews.com_health_2014_01_22_brain-dead-woman-kept-alive-by-hospital-is-carrying-deformed-fetus-attorney_.tsv	10
+http:__edition.cnn.com_2014_01_24_health_pregnant-brain-dead-woman-texas_index.html.tsv	http:__www.foxnews.com_health_2014_01_24_texas-hospital-ordered-to-remove-life-support-from-pregnant-brain-dead-woman_.tsv	10
+http:__edition.cnn.com_2014_01_24_health_pregnant-brain-dead-woman-texas_index.html.tsv	http:__www.foxnews.com_health_2014_01_24_texas-woman-family-asks-to-end-life-support_.tsv	12
+http:__edition.cnn.com_2014_01_23_politics_nsa-telephone-records-privacy_index.html.tsv	http:__www.foxnews.com_politics_2014_01_23_independent-federal-review-board-says-nsa-phone-data-collection-program-should_.tsv	11
+http:__edition.cnn.com_2014_01_23_travel_wizarding-world-harry-potter-diagon_index.html.tsv	http:__www.foxnews.com_travel_2014_01_23_universals-new-diagon-alley-adds-serious-magic-to-harry-potter-theme-park_.tsv	9
+http:__edition.cnn.com_2014_01_21_us_new-york-boy-saves-family-fire_index.html.tsv	http:__www.foxnews.com_us_2014_01_23_tragedy-compounded-as-family-young-hero-argues-over-donations_.tsv	9
+http:__edition.cnn.com_2014_01_24_us_sc-state-shooting_index.html.tsv	http:__www.foxnews.com_us_2014_01_24_student-reportedly-injured-in-shooting-at-south-carolina-state-university_.tsv	11
+http:__edition.cnn.com_2014_01_24_us_sc-state-shooting_index.html.tsv	http:__www.foxnews.com_us_2014_01_25_student-reportedly-injured-in-shooting-at-south-carolina-state-university_.tsv	11
+http:__edition.cnn.com_2014_01_22_world_meast_israel-terror-arrests_index.html.tsv	http:__www.foxnews.com_world_2014_01_23_israel-foils-al-qaeda-plot-on-us-embassy-internal-security-agency-says_.tsv	10
+http:__edition.cnn.com_2014_01_22_us_mexico-texas-tamayo-execution_index.html.tsv	http:__www.foxnews.com_world_2014_01_23_texas-executes-mexican-despite-diplomatic-protests_.tsv	10
+http:__edition.cnn.com_2014_01_22_world_europe_ukraine-protests_index.html.tsv	http:__www.foxnews.com_world_2014_01_23_ukraine-opposition-gives-president-election-ultimatum_.tsv	11
+http:__edition.cnn.com_2014_01_24_world_europe_ukraine-protests-eu_index.html.tsv	http:__www.foxnews.com_world_2014_01_25_ukrainian-officials-accuse-protesters-capturing-2-policemen-as-clashes_.tsv	9

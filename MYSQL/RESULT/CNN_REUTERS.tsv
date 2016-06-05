@@ -1,0 +1,12 @@
+CNN_link	REUTERS_link	NumMatching
+http:__edition.cnn.com_2014_01_25_world_asia_india-japan-relations-hiscock_index.html.tsv	http:__www.reuters.com_article_2014_01_22_us-davos-japan-idUSBREA0L1NF20140122	10
+http:__edition.cnn.com_2014_01_23_world_europe_davos-rouhani-peaceful-nuclear-program_index.html.tsv	http:__www.reuters.com_article_2014_01_23_us-davos-iran-rouhani-idUSBREA0M0KC20140123	9
+http:__edition.cnn.com_2014_01_24_world_europe_ukraine-protests-eu_index.html.tsv	http:__www.reuters.com_article_2014_01_22_us-ukraine-idUSBREA0L0B520140122	9
+http:__edition.cnn.com_2014_01_24_world_meast_syria-geneva-talks_index.html.tsv	http:__www.reuters.com_article_2014_01_22_us-syria-crisis-idUSBREA0L0H820140122	9
+http:__edition.cnn.com_2014_01_23_world_asia_india-gang-rape_index.html.tsv	http:__www.reuters.com_article_2014_01_23_us-india-rape-idUSBREA0M0VH20140123	9
+http:__edition.cnn.com_2014_01_24_world_meast_egypt-explosion_index.html.tsv	http:__www.reuters.com_article_2014_01_24_us-egypt-blast-idUSBREA0N09320140124	9
+http:__edition.cnn.com_2014_01_22_world_europe_syria-geneva-talks_index.html.tsv	http:__www.reuters.com_article_2014_01_24_us-syria-crisis-idUSBREA0L0H820140124	9
+http:__edition.cnn.com_2014_01_24_world_europe_ukraine-protests-eu_index.html.tsv	http:__www.reuters.com_article_2014_01_24_us-ukraine-idUSBREA0M0S820140124	9
+http:__edition.cnn.com_2014_01_24_world_meast_syria-geneva-talks_index.html.tsv	http:__www.reuters.com_article_2014_01_24_us-syria-crisis-idUSBREA0L0H820140124	10
+http:__edition.cnn.com_2014_01_25_world_meast_syria-geneva-talks_index.html.tsv	http:__www.reuters.com_article_2014_01_24_us-syria-crisis-idUSBREA0L0H820140124	10
+http:__edition.cnn.com_2014_01_25_world_meast_syria-geneva-talks_index.html.tsv	http:__www.reuters.com_article_2014_01_25_us-syria-crisis-idUSBREA0N0L520140125	9

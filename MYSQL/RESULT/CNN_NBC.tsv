@@ -1,0 +1,14 @@
+CNN_link	NBC_link	NumMatching
+http:__edition.cnn.com_2014_01_22_us_mexico-texas-tamayo-execution_index.html.tsv	http:__usnews.nbcnews.com__news_2014_01_22_22399753-supreme-court-denies-stay-of-execution-in-texas-for-mexican-national?lite.tsv	11
+http:__edition.cnn.com_2014_01_22_us_mexico-texas-tamayo-execution_index.html.tsv	http:__usnews.nbcnews.com__news_2014_01_22_22399753-texas-delays-execution-of-mexican-national-waits-on-supreme-court?lite.tsv	9
+http:__edition.cnn.com_2014_01_21_us_new-york-boy-saves-family-fire_index.html.tsv	http:__usnews.nbcnews.com__news_2014_01_22_22404421-ny-town-mourns-brave-8-year-old-who-died-saving-six-people-from-trailer-fire?lite.tsv	9
+http:__edition.cnn.com_2014_01_22_justice_university-oklahoma-shooting_index.html.tsv	http:__usnews.nbcnews.com__news_2014_01_22_22400817-no-evidence-of-shots-fired-after-university-of-oklahoma-reports-shooting?lite.tsv	10
+http:__edition.cnn.com_2014_01_22_us_mexico-texas-tamayo-execution_index.html.tsv	http:__usnews.nbcnews.com__news_2014_01_22_22399753-texas-executes-mexican-national-despite-opposition?lite.tsv	12
+http:__edition.cnn.com_2014_01_23_us_edward-snowden_index.html.tsv	http:__usnews.nbcnews.com__news_2014_01_23_22418460-snowden-says-mass-collection-must-end-but-not-all-spying-is-bad?lite.tsv	9
+http:__edition.cnn.com_2014_01_24_health_pregnant-brain-dead-woman-texas_index.html.tsv	http:__usnews.nbcnews.com__news_2014_01_24_22433012-texas-judge-orders-brain-dead-pregnant-woman-off-life-support?lite.tsv	9
+http:__edition.cnn.com_2014_01_22_world_europe_ukraine-protests_index.html.tsv	http:__worldnews.nbcnews.com__news_2014_01_23_22412453-ukraines-pro-west-protesters-unveil-ultimatum-amid-torture-claims?lite.tsv	9
+http:__edition.cnn.com_2014_01_23_world_asia_north-korea-reconciliation_index.html.tsv	http:__worldnews.nbcnews.com__news_2014_01_24_22426388-north-korea-calls-for-end-of-hostilities-in-letter-to-south?lite.tsv	9
+http:__edition.cnn.com_2012_09_14_showbiz_gallery_celebrity-arrests_index.html.tsv	http:__www.nbcnews.com_entertainment_justin-bieber-arrested-dui-drag-racing-2D11979842.tsv	9
+http:__edition.cnn.com_2014_01_23_showbiz_justin-bieber-arrest-duplicate-2_index.html.tsv	http:__www.nbcnews.com_entertainment_justin-bieber-arrested-dui-drag-racing-2D11979842.tsv	9
+http:__edition.cnn.com_2014_01_23_showbiz_justin-bieber-arrest_index.html.tsv	http:__www.nbcnews.com_entertainment_justin-bieber-arrested-dui-drag-racing-2D11979842.tsv	9
+http:__edition.cnn.com_2014_01_23_travel_wizarding-world-harry-potter-diagon_index.html.tsv	http:__www.today.com_travel_revelio-hogwarts-express-gets-ready-roll-universal-studios-florida-2D11975298.tsv	9

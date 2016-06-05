@@ -1,0 +1,5 @@
+CNN_link	NPR_link	NumMatching
+http:__edition.cnn.com_2014_01_23_politics_nsa-telephone-records-privacy_index.html.tsv	http:__www.npr.org_blogs_thetwo-way_2014_01_23_265092661_post-9-11-panel-criticizes-nsa-phone-data-collection?ft=1&amp;f=1001.tsv	9
+http:__edition.cnn.com_2014_01_22_world_europe_ukraine-protests_index.html.tsv	http:__www.npr.org_blogs_thetwo-way_2014_01_24_265664398_ukraine-protests-spread-but-fragile-truce-holds-in-kiev?ft=1&amp;f=1001.tsv	9
+http:__edition.cnn.com_2014_01_24_world_europe_ukraine-protests-eu_index.html.tsv	http:__www.npr.org_blogs_thetwo-way_2014_01_24_265664398_ukraine-protests-spread-but-fragile-truce-holds-in-kiev?ft=1&amp;f=1001.tsv	9
+http:__edition.cnn.com_2014_01_24_us_sc-state-shooting_index.html.tsv	http:__www.npr.org_blogs_thetwo-way_2014_01_24_265905400_student-shot-and-killed-at-s-c-state-university?ft=1&amp;f=1001.tsv	10

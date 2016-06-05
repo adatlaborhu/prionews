@@ -1,0 +1,5 @@
+REUTERS_link	NBC_link	NumMatching
+http:__www.reuters.com_article_2014_01_22_us-olympics-threat-idUSBREA0L12W20140122	http:__worldnews.nbcnews.com__news_2014_01_22_22398121-us-and-other-olympic-teams-get-terror-threat-ahead-of-sochi-games?lite.tsv	9
+http:__www.reuters.com_article_2014_01_23_us-target-databreach-fbi-idUSBREA0M1UF20140123	http:__www.nbcnews.com_technology_fbi-retailers-expect-more-credit-card-breaches-2D11979850.tsv	16
+http:__www.reuters.com_article_2014_01_23_us-usa-economy-jobless-idUSBREA0M0ZZ20140123	http:__www.nbcnews.com_business_jobless-claims-inch-broad-labor-trend-seen-improving-2D11980039.tsv	10
+http:__www.reuters.com_article_2014_01_25_us-boeing-dreamliner-idUSBREA0O01Y20140125	http:__www.nbcnews.com_business_trouble-plagued-dreamliner-only-98-reliable-boeing-admits-2D11988420.tsv	10

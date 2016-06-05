@@ -1,0 +1,3 @@
+1. $ jel bugolja a cikkszurot a cikk címében
+FIXED_2. REUTERS cikkeinek nem jók a fájlnevei valszeg speciális karakter miatt & vagy ;
+3. ABC-nél az article_reader_ABC a ?singlepage-nél egy alkalommal nem talált ?singlepage linket és ezért elbaszta a cikk beolvasását

@@ -1,0 +1,6 @@
+1. add NAME + LINK to list_of_rss.tsv --- NO enter after that
+2. create folders with folder_creator.sh $rss_name
+3. cp article_reader_XXX.sh into articler_reader_$rss_name.sh
+4. format article_reader
+5. add enter on list_of_rss.tsv
+6. RUN the script: igazhir.sh to check

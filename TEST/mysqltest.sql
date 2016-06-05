@@ -1,0 +1,1 @@
+select * from eredmeny where NumMatching > 10;
